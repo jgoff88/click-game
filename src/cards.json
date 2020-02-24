@@ -1,0 +1,55 @@
+[{
+        "id": 1,
+        "image": "https://www.refinery29.com/images/9127402.jpg?format=webp&width=720&height=864&quality=85",
+        "title": "BoJack",
+        "selected": false
+    },
+    {
+        "id": 2,
+        "image": "https://pbs.twimg.com/profile_images/834387617663897600/bnYFfSop.jpg",
+        "title": "Mr.PeanutButter",
+        "selected": false
+    },
+    {
+        "id": 3,
+        "image": "https://pbs.twimg.com/profile_images/884959376871706626/c459hnjB.jpg",
+        "title": "Diane",
+        "selected": false
+    },
+    {
+        "id": 4,
+        "image": "https://pbs.twimg.com/media/CHF_hGaXEAAh9Yk.jpg",
+        "title": "Todd",
+        "selected": false
+    },
+    {
+        "id": 5,
+        "image": "https://i.pinimg.com/originals/83/7f/f5/837ff5293c96e0db71204a3c12c87299.jpg",
+        "title": "Sarah Lynn",
+        "selected": false
+    },
+    {
+        "id": 6,
+        "image": "https://data.whicdn.com/images/327256690/original.jpg",
+        "title": "Princess Carolyn",
+        "selected": false
+    },
+    {
+        "id": 7,
+        "image": "https://pbs.twimg.com/media/CqersM_XEAArfGO.jpg",
+        "title": "Pinky penguin",
+        "selected": false
+    },
+    {
+        "id": 8,
+        "image": "https://img.fireden.net/co/image/1505/58/1505582570876.png",
+        "title": "Hollyhock",
+        "selected": false
+    },
+    {
+        "id": 9,
+        "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/4/4c/Tom_Jumbo-Grumbo.png/revision/latest?cb=20150724053101",
+        "title": "Tom Jumbo-Grumbo",
+        "selected": false
+    }
+]
